@@ -17,6 +17,14 @@ Me chamo Vitor Ferreira, tenho 20 anos e sou estudante do 5º semestre de Engenh
             src="https://custom-icon-badges.demolab.com/github/followers/VitorBFerreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
+<a href="www.linkedin.com/in/vitor-henrique-564503281">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
