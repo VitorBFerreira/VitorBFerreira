@@ -1,6 +1,6 @@
 **`Desenvolvedor FullStack`**
 
-Me chamo Vitor Ferreira, tenho 20 anos e sou estudante do 5º semestre de Engenharia da Computação. Tenho experiência em HTML, CSS, JavaScript, atuando no desenvolvimento front-end e back-end. Também possuo conhecimentos básico em banco de dados, análise de dados com Power BI e AutoCAD. Atualmente, meu foco está em desenvolvimento full stack, mas no futuro pretendo explorar Inteligência Artificial e Machine Learning. Sou apaixonado por tecnologia e compartilho meu conhecimento através do GitHub "[VitorBFerreira](https://github.com/VitorBFerreira). 🚀
+Me chamo Vitor Ferreira, tenho 20 anos e sou estudante do 7º semestre de Engenharia da Computação. Tenho experiência em HTML, CSS, JavaScript, atuando no desenvolvimento front-end e back-end. Também possuo conhecimentos básico em banco de dados, análise de dados com Power BI e AutoCAD. Atualmente, meu foco está em desenvolvimento full stack, mas no futuro pretendo explorar Inteligência Artificial e Machine Learning. Sou apaixonado por tecnologia e compartilho meu conhecimento através do GitHub "[VitorBFerreira](https://github.com/VitorBFerreira). 🚀
 
 <p align="left"> 
     <a href="https://github.com/VitorBFerreira?tab=repositories&sort=stargazers">
