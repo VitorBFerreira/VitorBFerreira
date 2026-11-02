@@ -13,7 +13,8 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento de softwa
 - **Estudando:** inteligência artificial, visão computacional e boas práticas de engenharia de software
 
 ### 🚀 Projetos
-**Análise Logística com Python** — automação de conferência de estoques, reservas e recomendações de abastecimento. Uma demonstração pública, com dados fictícios e sem informações internas, está em preparação.
+**Análise Logística com Python** — projeto demonstrativo de análise de estoques, consolidação de reservas, validações e recomendações de abastecimento, com dados fictícios e testes automatizados.
+- [Conhecer o projeto e seu código](https://github.com/VitorBFerreira/Vitor-Portifolio/tree/main/projetos/analise-logistica)
 
 **Portfólio Web** — meu site pessoal com apresentação, habilidades e projetos.
 - [Acessar o código do portfólio](https://github.com/VitorBFerreira/Vitor-Portifolio)
